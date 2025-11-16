@@ -1,0 +1,251 @@
+company_name,lpa,skills,experience_needed
+Netflix,28.3,"Python, C++, SQL",2
+Microsoft,12.0,"Docker, SQL",3
+Amazon,34.2,"HTML, Django, Node.js",4
+Meta,33.3,"Node.js, Deep Learning, Python, Java",3
+Microsoft,35.5,"AWS, Java, Deep Learning, Machine Learning, C++",1
+Google,21.9,"Kubernetes, Python, CSS, Java",5
+IBM,34.8,"HTML, React, SQL, Docker",2
+Tesla,32.5,"Kubernetes, HTML, React, Docker, Python",6
+Netflix,33.4,"HTML, C++",8
+Microsoft,15.0,"JavaScript, Java, SQL",6
+IBM,3.7,"Machine Learning, React, Deep Learning, Python, JavaScript",5
+Microsoft,12.8,"Kubernetes, Django",1
+Oracle,7.3,"AWS, Django, Node.js, Deep Learning, Docker",7
+Google,29.6,"Deep Learning, C++, Machine Learning, Node.js, Django",10
+Oracle,35.6,"React, C++, Machine Learning, JavaScript, Django",7
+Tesla,3.5,"React, Django, Deep Learning, Kubernetes, Java",7
+Amazon,27.6,"HTML, React, Django, SQL",6
+Google,25.3,"CSS, Java, C++, Node.js, Python",5
+Google,7.0,"Node.js, Docker",1
+Accenture,15.6,"Kubernetes, Node.js, Django, Java",2
+Accenture,38.0,"Kubernetes, Docker",8
+Google,14.4,"HTML, JavaScript, AWS, Java",7
+Accenture,29.2,"HTML, Python, CSS, JavaScript, Java",8
+Amazon,15.6,"JavaScript, HTML, React, Django",3
+Adobe,31.5,"Django, SQL, C++, HTML",2
+Tesla,36.9,"Java, HTML, Python, AWS",1
+Accenture,31.8,"Java, C++",4
+Accenture,32.0,"Deep Learning, JavaScript, Java, Kubernetes",10
+Amazon,22.2,"Machine Learning, AWS, Docker, Java, Kubernetes",0
+IBM,37.1,"Machine Learning, Deep Learning",9
+Netflix,26.4,"Docker, Machine Learning, Python, Deep Learning",7
+Oracle,26.8,"HTML, Node.js, React",1
+Tesla,39.3,"JavaScript, Deep Learning",8
+Microsoft,6.0,"Kubernetes, React, HTML, Django",1
+IBM,32.2,"AWS, Node.js, Deep Learning",0
+Oracle,11.9,"Java, CSS, AWS",3
+Meta,24.4,"Machine Learning, SQL",3
+Tesla,15.9,"React, C++",10
+Amazon,16.2,"SQL, React, JavaScript",0
+Meta,32.8,"JavaScript, CSS, Docker, AWS, C++",6
+Amazon,11.8,"Machine Learning, Java, React, CSS, JavaScript",0
+Tesla,15.6,"Django, Docker, Kubernetes, Java, HTML",9
+Adobe,26.6,"SQL, Machine Learning",1
+IBM,10.2,"Docker, Kubernetes, AWS, HTML",7
+Tesla,33.6,"CSS, Java, Node.js, JavaScript, AWS",10
+Microsoft,29.0,"AWS, Kubernetes",7
+Adobe,12.1,"CSS, Docker, AWS, SQL",3
+Meta,37.3,"Kubernetes, Machine Learning, Node.js",6
+Amazon,25.7,"JavaScript, Python",1
+Microsoft,32.3,"SQL, Docker",10
+Oracle,5.8,"Deep Learning, AWS, Python, Java",9
+Accenture,28.5,"Java, Deep Learning",3
+Amazon,5.6,"Django, AWS",10
+Adobe,32.7,"Kubernetes, Node.js, AWS",8
+Microsoft,14.7,"Deep Learning, React, JavaScript",10
+Oracle,28.1,"C++, React, HTML",3
+Adobe,39.4,"Java, Python, SQL",0
+Microsoft,38.7,"SQL, JavaScript, Node.js, Python",1
+IBM,20.9,"Kubernetes, Docker",2
+IBM,39.8,"C++, Machine Learning",7
+IBM,4.2,"AWS, SQL, Docker, JavaScript",9
+Microsoft,34.6,"C++, Python, React",3
+Accenture,32.0,"SQL, React, Machine Learning",5
+Adobe,9.3,"HTML, Machine Learning, Java, React",9
+Adobe,33.6,"SQL, Python, Node.js, React",10
+Adobe,24.6,"JavaScript, Deep Learning, CSS, C++",2
+Amazon,17.5,"C++, Node.js, Docker, Java",0
+Adobe,34.8,"Java, C++, CSS, Deep Learning, AWS",5
+Amazon,23.2,"Python, JavaScript, CSS, SQL",5
+Meta,14.3,"CSS, HTML, C++",0
+Microsoft,21.1,"C++, Java, Node.js, HTML, Django",9
+Adobe,22.8,"C++, CSS, SQL",1
+Adobe,36.7,"Python, Machine Learning, Kubernetes, Node.js",4
+Google,22.6,"HTML, Docker, SQL, AWS, React",8
+Meta,35.3,"React, C++, Docker",7
+Oracle,12.4,"Deep Learning, Kubernetes, SQL, Java, Django",9
+Accenture,24.3,"Java, Deep Learning, C++, HTML",8
+Oracle,36.0,"Deep Learning, SQL, Python, C++",6
+Tesla,9.7,"React, Django, Machine Learning, Python, JavaScript",7
+Amazon,12.5,"C++, HTML, Java",3
+Accenture,37.8,"AWS, SQL, Django, Java",5
+Google,19.1,"AWS, React, HTML, Java",8
+Accenture,37.7,"Machine Learning, Deep Learning, Kubernetes, C++, Node.js",3
+Accenture,26.1,"Docker, Python, CSS, HTML, Node.js",4
+Google,25.5,"C++, Kubernetes, Deep Learning, Node.js",10
+Netflix,22.7,"C++, SQL",4
+Amazon,29.3,"React, CSS",6
+Netflix,33.7,"HTML, Python",2
+Tesla,21.6,"HTML, SQL, Python, Node.js, C++",9
+Tesla,29.4,"SQL, Django, Java, Python",0
+IBM,34.6,"Java, JavaScript, Docker",2
+Adobe,16.9,"C++, Python",9
+Google,22.2,"Deep Learning, Docker, AWS, Django, SQL",4
+Amazon,23.7,"Kubernetes, React, Docker, JavaScript, HTML",3
+Amazon,8.6,"Java, Django",8
+Amazon,25.6,"CSS, HTML, Django, C++, Machine Learning",2
+Accenture,36.6,"AWS, JavaScript, Docker, Kubernetes",8
+Accenture,31.2,"CSS, Java, Python, C++, AWS",10
+Microsoft,7.5,"AWS, Node.js, Django",9
+Oracle,32.5,"Docker, CSS, Deep Learning",6
+IBM,23.9,"Kubernetes, JavaScript, Docker",3
+Oracle,12.2,"SQL, CSS, Kubernetes",4
+Accenture,17.9,"AWS, Python, Docker",2
+Oracle,5.7,"HTML, SQL",9
+Oracle,15.8,"SQL, JavaScript, React, Deep Learning, Python",10
+IBM,31.3,"Node.js, JavaScript",1
+Accenture,24.5,"Java, CSS, Docker, AWS, Node.js",9
+Meta,9.1,"CSS, Deep Learning",8
+Tesla,20.1,"C++, AWS, JavaScript, Java",0
+Tesla,30.0,"CSS, Java, AWS",9
+Oracle,4.5,"AWS, CSS, Docker, Kubernetes, Python",3
+Meta,14.1,"Docker, HTML",1
+Tesla,13.5,"Node.js, Machine Learning, SQL, AWS, JavaScript",5
+Google,16.0,"SQL, Python, Kubernetes, Docker, Deep Learning",3
+Meta,9.9,"Machine Learning, CSS, Java, Python, SQL",3
+Amazon,33.3,"CSS, Java, Django, Python, Node.js",8
+Tesla,29.5,"Kubernetes, C++, Machine Learning",5
+Google,9.4,"Django, C++, Docker",5
+Tesla,35.8,"React, Python, JavaScript, CSS, C++",4
+Meta,16.0,"AWS, JavaScript, Kubernetes, SQL, Node.js",8
+Amazon,37.3,"CSS, Machine Learning, React, Kubernetes, Node.js",2
+Oracle,4.1,"SQL, Machine Learning",3
+Accenture,38.9,"Python, C++",1
+Tesla,33.4,"C++, AWS, Python, JavaScript, CSS",5
+Google,27.0,"Django, SQL, Java, Node.js, Kubernetes",9
+Accenture,37.9,"React, JavaScript, Deep Learning",6
+Microsoft,8.8,"Kubernetes, Deep Learning, Machine Learning, AWS",8
+Adobe,10.6,"Kubernetes, React, Docker, JavaScript, Machine Learning",8
+Accenture,30.9,"Django, Node.js, CSS, Kubernetes",2
+Oracle,29.1,"Django, Deep Learning",10
+Netflix,19.1,"Kubernetes, JavaScript, React, SQL",5
+Microsoft,39.3,"Java, AWS, Django, Node.js",1
+Adobe,21.3,"Kubernetes, CSS",6
+Adobe,19.9,"C++, Node.js, Java, Docker",7
+Tesla,39.8,"Django, HTML",4
+Netflix,20.0,"Django, AWS",4
+Amazon,32.0,"Java, C++, Deep Learning",10
+Microsoft,13.5,"Deep Learning, Node.js, AWS, C++",2
+Adobe,3.9,"Python, C++, Machine Learning",2
+Google,39.2,"AWS, React, Python",3
+Netflix,22.0,"Python, Django",4
+Google,17.4,"Node.js, HTML",2
+IBM,17.2,"Python, C++, Deep Learning, HTML, Node.js",8
+Tesla,24.9,"CSS, Django, C++",3
+Accenture,4.1,"HTML, Deep Learning, SQL, JavaScript",2
+Adobe,9.4,"Python, Kubernetes, Django",10
+Adobe,30.3,"Python, JavaScript, HTML, Node.js",10
+Amazon,12.1,"Node.js, Java, Django",6
+Microsoft,17.1,"Python, Machine Learning, React, JavaScript, Kubernetes",10
+Google,37.7,"Java, React, C++, Deep Learning, Docker",3
+Accenture,18.0,"CSS, Machine Learning, C++, Django, Docker",9
+Microsoft,10.2,"Deep Learning, Django, AWS",2
+Netflix,17.4,"Django, Node.js, CSS, React",3
+Google,14.8,"Kubernetes, Django, AWS, HTML",3
+Microsoft,31.5,"Docker, Django",8
+Amazon,37.8,"Docker, Python",4
+IBM,22.2,"AWS, Kubernetes, JavaScript",10
+Google,20.4,"Java, SQL",2
+Amazon,22.7,"AWS, Node.js",4
+IBM,35.2,"HTML, JavaScript, C++, Docker, Python",6
+Meta,25.7,"Docker, Deep Learning, CSS",9
+Microsoft,8.2,"CSS, Machine Learning, Django",3
+Oracle,39.5,"AWS, Node.js, C++, Python",1
+Netflix,35.5,"React, AWS",6
+Oracle,12.2,"Node.js, Kubernetes, Docker",0
+IBM,12.7,"JavaScript, Machine Learning, Python, AWS, CSS",1
+Oracle,12.1,"React, Docker, C++, HTML",10
+IBM,20.7,"Machine Learning, SQL",6
+Tesla,31.1,"Deep Learning, Java",3
+Microsoft,38.7,"CSS, SQL, Deep Learning, React, Java",2
+Tesla,35.8,"Python, Java, C++, HTML, Node.js",4
+IBM,37.6,"CSS, React, C++, JavaScript, Docker",0
+Tesla,39.1,"React, Docker, Kubernetes, Java, C++",0
+Amazon,12.6,"AWS, Deep Learning, Docker",1
+Amazon,37.4,"Kubernetes, React, Python, Deep Learning",6
+Tesla,22.0,"Node.js, Deep Learning",10
+Meta,36.8,"Java, JavaScript, Python, AWS, Django",9
+Google,39.1,"Machine Learning, Java",0
+Amazon,15.4,"HTML, Python",5
+Amazon,19.9,"Django, Kubernetes, C++",8
+Netflix,21.4,"HTML, SQL, Java, Docker",7
+IBM,20.3,"React, Kubernetes",7
+Adobe,29.1,"React, C++",10
+Amazon,4.1,"AWS, React, Machine Learning, Django",8
+Amazon,9.6,"CSS, Node.js, Python, Machine Learning, Kubernetes",8
+IBM,6.9,"C++, Docker, React, AWS, SQL",2
+Oracle,33.0,"Python, Django, Kubernetes, Machine Learning",10
+IBM,16.3,"Machine Learning, CSS, Docker, Kubernetes",7
+Google,4.3,"React, Python, CSS, Docker",7
+Microsoft,35.4,"Java, Django, AWS, C++, HTML",4
+Meta,6.5,"Docker, SQL, Node.js",1
+Adobe,16.8,"Python, Deep Learning, Docker",8
+Accenture,30.3,"SQL, Docker, Node.js, Django, Deep Learning",5
+Netflix,37.7,"AWS, HTML",3
+Microsoft,29.6,"Node.js, Django, Deep Learning",8
+Netflix,13.9,"C++, Kubernetes, Node.js, HTML",5
+Microsoft,38.3,"Machine Learning, AWS, Node.js",1
+Amazon,26.0,"Kubernetes, Django, Node.js",9
+IBM,17.4,"Node.js, C++",10
+Meta,15.1,"C++, Python, Node.js, Deep Learning, JavaScript",8
+IBM,38.8,"Docker, C++",8
+Amazon,29.5,"Python, Kubernetes, Node.js",5
+Accenture,21.3,"React, Deep Learning, CSS",5
+Meta,32.1,"SQL, HTML, Java, Python, Django",9
+Adobe,12.6,"Django, Java, Deep Learning, Machine Learning, C++",5
+Netflix,15.8,"Machine Learning, Deep Learning, CSS",3
+Microsoft,11.0,"Deep Learning, SQL, Django, Machine Learning, AWS",3
+Google,20.4,"HTML, Node.js, Docker",6
+Google,11.8,"HTML, Python, Java, C++",4
+IBM,23.1,"Machine Learning, C++, Docker",8
+Accenture,29.0,"Django, Python",8
+Netflix,37.7,"C++, Machine Learning, Python, React",8
+Oracle,4.0,"Node.js, Deep Learning, SQL",5
+Google,38.6,"Python, Java, React, SQL",4
+Adobe,26.8,"HTML, Python, Kubernetes, Django",4
+Tesla,21.9,"Docker, React, Django, Python",3
+Amazon,13.0,"Kubernetes, Python, SQL, Deep Learning, Node.js",2
+Accenture,23.7,"HTML, SQL, AWS, Docker, Kubernetes",0
+Oracle,17.9,"Kubernetes, Docker",3
+Amazon,25.2,"React, Docker, Python, Node.js",0
+Netflix,22.1,"C++, Python, CSS",9
+Netflix,38.1,"Deep Learning, CSS, C++, Node.js",9
+Accenture,21.7,"Docker, Java, Node.js, Deep Learning, JavaScript",8
+Google,10.7,"Kubernetes, CSS, React, AWS, Machine Learning",8
+IBM,5.7,"Java, JavaScript, React",4
+Adobe,32.1,"Django, JavaScript, Python",9
+IBM,10.4,"C++, Node.js, AWS",1
+Google,38.0,"AWS, Java, CSS",2
+Microsoft,9.6,"Python, JavaScript",4
+Oracle,7.6,"Django, Python",8
+Accenture,21.9,"Java, Kubernetes, Docker, AWS, SQL",5
+Amazon,33.3,"Django, AWS, Node.js, SQL",0
+Meta,19.6,"C++, AWS, Node.js, Java, JavaScript",5
+Microsoft,23.9,"React, Docker, C++, Deep Learning, JavaScript",4
+Oracle,35.2,"Docker, HTML, React, CSS, Node.js",0
+Oracle,34.7,"React, JavaScript, Node.js, Docker",1
+Amazon,33.3,"Kubernetes, Deep Learning, SQL, Machine Learning, JavaScript",9
+Oracle,35.1,"HTML, Django, CSS",2
+Oracle,3.7,"Kubernetes, Django, Java, HTML, Machine Learning",2
+Meta,27.2,"React, JavaScript, C++",0
+Accenture,31.3,"Java, Kubernetes, JavaScript, React",1
+Google,7.1,"CSS, SQL, Django, Docker, C++",3
+Netflix,21.0,"AWS, SQL, Python, Node.js, JavaScript",0
+Tesla,11.5,"HTML, CSS, Kubernetes, React, Deep Learning",3
+Adobe,26.3,"SQL, Java",2
+Microsoft,11.5,"Python, AWS, SQL, CSS, C++",8
+Tesla,29.1,"Docker, Deep Learning, JavaScript",3
+Accenture,23.9,"Kubernetes, React, AWS",4
+Microsoft,12.8,"React, HTML, Machine Learning, Java",4
+Amazon,26.5,"Node.js, SQL, HTML, Django",1
